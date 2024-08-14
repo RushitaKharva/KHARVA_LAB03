@@ -9,7 +9,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin0">
@@ -19,7 +19,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin1">
@@ -29,7 +29,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sh_ylw-pushpin">
@@ -63,10 +63,10 @@
 			<color>ff000000</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff536786</color>
+			<color>ff626d7b</color>
 		</PolyStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin1">
+	<Style id="sh_ylw-pushpin00">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -74,13 +74,11 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 		<LineStyle>
 			<color>ff000000</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff626d7b</color>
+			<color>ff536786</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin">
@@ -108,13 +106,11 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 		<LineStyle>
 			<color>ff000000</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff807341</color>
+			<color>ff536786</color>
 		</PolyStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin1">
@@ -131,7 +127,7 @@
 			<color>ff000000</color>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff536786</color>
+			<color>ff807341</color>
 		</PolyStyle>
 	</Style>
 	<Folder>
@@ -140,10 +136,10 @@
 			<name>R1</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential </Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B1</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -161,10 +157,10 @@
 			<name>R2</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B2</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -182,10 +178,10 @@
 			<name>R3</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B3</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -203,9 +199,9 @@
 			<name>R4</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
+<Serial>B4</Serial>]]></description>
 			<LookAt>
 				<longitude>-80.65396527836559</longitude>
 				<latitude>37.89109886002597</latitude>
@@ -215,7 +211,7 @@
 				<range>1056.568719876803</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -233,10 +229,10 @@
 			<name>R5</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B5</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -254,10 +250,10 @@
 			<name>R6</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B6</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -275,10 +271,10 @@
 			<name>R7</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B7</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -296,10 +292,10 @@
 			<name>R8</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B8</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -317,10 +313,10 @@
 			<name>R9</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B9</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -338,10 +334,10 @@
 			<name>R10</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B10</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -359,10 +355,10 @@
 			<name>R11</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B11</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -380,10 +376,10 @@
 			<name>R12</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B12</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -401,10 +397,10 @@
 			<name>R13</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B13</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -422,10 +418,10 @@
 			<name>R14</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B14</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -443,10 +439,10 @@
 			<name>R15</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B15</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -464,10 +460,10 @@
 			<name>R16</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B16</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -485,10 +481,10 @@
 			<name>R17</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B17</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -506,10 +502,10 @@
 			<name>R18</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B18</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -527,10 +523,10 @@
 			<name>R19</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B19</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -548,10 +544,10 @@
 			<name>R20</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B20</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -569,10 +565,10 @@
 			<name>R21</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B21</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -590,10 +586,10 @@
 			<name>R22</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B22</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -611,10 +607,10 @@
 			<name>R23</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B23</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -632,10 +628,10 @@
 			<name>R24</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B24</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -653,10 +649,10 @@
 			<name>R25</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B25</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -674,10 +670,10 @@
 			<name>R26</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+<Serial>B26</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
@@ -695,9 +691,9 @@
 			<name>R27</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
+<Serial>B27</Serial>]]></description>
 			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
@@ -716,10 +712,10 @@
 			<name>R28</name>
 			<description><![CDATA[<Stories>3</Stories>
 <Class>C</Class>
-<Type>Business</Type>
+<Type>Residential</Type>
 <Note></Note>
-<Serial>D24</Serial>]]></description>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+<Serial>B28</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<extrude>1</extrude>
 				<tessellate>1</tessellate>
